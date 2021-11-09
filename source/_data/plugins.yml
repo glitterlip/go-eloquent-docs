@@ -962,7 +962,7 @@
     - json
     - data
     - search
-    - api
+    - model
 - name: hexo-generator-json-feed
   description: Generate a JSON file similar to RSS feed channel structure with posts contents for generic use or consumption.
   link: https://github.com/alexbruno/hexo-generator-json-feed
@@ -973,7 +973,7 @@
     - feed
     - rss
     - search
-    - api
+    - model
 - name: hexo-generator-slidehtml
   description: A hexo plugin to generate slide html when build / generating hexo project.
   link: https://github.com/jackey8616/hexo-generator-slidehtml
@@ -1670,7 +1670,7 @@
   tags:
     - normalizr
     - json
-    - api
+    - model
     - redux
 - name: hexo-renderer-sass-bourbon-neat
   description: Sass renderer plugin for Hexo with Bourbon/Neat support.

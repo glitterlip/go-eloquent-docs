@@ -1,12 +1,12 @@
-title: Hexo
+title: Go Eloquent
 subtitle: "A fast, simple & powerful blog framework powered by Node.js."
 description: "Hexo is a fast, simple & powerful blog framework powered by Node.js."
-author: Hexo
+author: GlitterLip
 language: en
 timezone: UTC
 
-url: https://hexo.io
-root: /
+url: https://glitterlip.github.io/go-eloquent-docs/
+root: https://glitterlip.github.io/go-eloquent-docs/
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
 code_dir: downloads/code
@@ -23,18 +23,24 @@ highlight:
   enable: true
   line_number: false
 
-disqus_shortname: hexojs
-google_analytics: UA-48498357-3
-fb_admins: 100000247608790
-algolia:
-  en:
-    api_key: c3d5d4c995b5e0c2ffb5623900279a66
-    index_name: hexo
-  zh-tw:
-    api_key: c83d2ec3440f40aec6d0e695ecec7ef3
-    index_name: hexo_zh-tw
-  zh-cn:
-    api_key: cdea7d4e47d84f6145b77e7f68689f35
-    index_name: hexo_zh-cn
-twitter: hexojs
-github: hexojs/hexo
+disqus_shortname:
+google_analytics:
+fb_admins:
+#algolia:
+#  en:
+#    api_key: c3d5d4c995b5e0c2ffb5623900279a66
+#    index_name: hexo
+#  zh-tw:
+#    api_key: c83d2ec3440f40aec6d0e695ecec7ef3
+#    index_name: hexo_zh-tw
+#  zh-cn:
+#    api_key: cdea7d4e47d84f6145b77e7f68689f35
+#    index_name: hexo_zh-cn
+#twitter: hexojs
+#github: hexojs/hexo
+
+deploy:
+  type: git
+  repo: git@github.com:glitterlip/go-eloquent-docs.git
+  branch: gh-pages
+  message: "Docs updated: {{ now('YYYY-MM-DD HH:mm:ss') }})"

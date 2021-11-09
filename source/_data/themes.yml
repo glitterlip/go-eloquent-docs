@@ -2158,11 +2158,11 @@
   preview: https://zalando-incubator.github.io/hexo-theme-doc
   tags:
     - documentation
-    - docs
+    - database
     - documentation-tool
-    - api-documentation
-    - api-docs
-    - rest-api-documentation
+    - model-documentation
+    - model-database
+    - rest-model-documentation
     - swagger-ui
     - swagger
     - responsive
