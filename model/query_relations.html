@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <meta charset="utf-8">
+  <title>Query Relations | Go Eloquent</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Canonical links -->
+  <link rel="canonical" href="http://localhost:4000/model/query_relations.html">
+  <!-- Alternative links -->
+  
+    
+      <link rel="alternative" hreflang="en" href="http://localhost:4000/model/query_relations">
+    
+  
+  <!-- Icon -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/icon/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/icon/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/icon/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/icon/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/icon/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/icon/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/icon/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/icon/apple-touch-icon-152x152.png">
+  <link rel="icon" type="image/png" href="/icon/favicon-196x196.png" sizes="196x196">
+  <link rel="icon" type="image/png" href="/icon/favicon-160x160.png" sizes="160x160">
+  <link rel="icon" type="image/png" href="/icon/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="/icon/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="/icon/favicon-32x32.png" sizes="32x32">
+  <meta name="msapplication-TileColor" content="#2f83cd">
+  <meta name="msapplication-TileImage" content="/icon/mstile-144x144.png">
+  <!-- CSS -->
+  <!-- build:css build/css/navy.css -->
+  
+<link rel="stylesheet" href="/css/navy.css">
+
+  <!-- endbuild -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/typeface-lato@0.0.75/index.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.3.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css">
+  <!-- RSS -->
+  <link rel="alternate" href="/atom.xml" title="Go Eloquent" type="application/atom+xml">
+  <!-- Open Graph -->
+  <meta name="description" content="Since all relations are defined via methods,and they are retrived by separate sql querys. You can add other constraints before load relation results from database. Add constrains use with or relationm">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Query Relations">
+<meta property="og:url" content="http://localhost:4000/model/query_relations">
+<meta property="og:site_name" content="Go Eloquent">
+<meta property="og:description" content="Since all relations are defined via methods,and they are retrived by separate sql querys. You can add other constraints before load relation results from database. Add constrains use with or relationm">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2022-08-16T08:42:02.289Z">
+<meta property="article:modified_time" content="2022-08-16T08:42:02.289Z">
+<meta property="article:author" content="GlitterLip">
+<meta name="twitter:card" content="summary">
+  <!-- Google Analytics -->
+  
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-6482217598104186",
+          enable_page_level_ads: true
+     });
+  </script>
+<meta name="generator" content="Hexo 6.2.0"></head>
+
+<body>
+  <div id="container">
+    <header id="header" class="wrapper">
+  <div id="header-inner" class="inner">
+    <h1 id="logo-wrap">
+      <a href="/" id="logo">Hexo</a>
+    </h1>
+    <nav id="main-nav">
+      <a href="/database/" class="main-nav-link">Database</a><a href="/model/" class="main-nav-link">Model</a><a href="/about/" class="main-nav-link">About</a>
+      <a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/" class="main-nav-link"><i class="fa fa-github-alt"></i></a>
+      <div id="search-input-wrap">
+        <div id="search-input-icon">
+          <i class="fa fa-search"></i>
+        </div>
+        <input type="search" id="search-input" placeholder="Search...">
+      </div>
+    </nav>
+    <div id="lang-select-wrap">
+      <label id="lang-select-label"><i class="fa fa-globe"></i><span>English</span></label>
+      <select id="lang-select" data-canonical="model/query_relations.html">
+        
+          <option value="en" selected>English</option>
+        
+      </select>
+    </div>
+    <a id="mobile-nav-toggle">
+      <span class="mobile-nav-toggle-bar"></span>
+      <span class="mobile-nav-toggle-bar"></span>
+      <span class="mobile-nav-toggle-bar"></span>
+    </a>
+  </div>
+</header>
+
+    <div id="content-wrap">
+  <div id="content" class="wrapper">
+    <div id="content-inner">
+      <article class="article-container" itemscope itemtype="http://schema.org/Article">
+        <div class="article-inner">
+          <div class="article">
+            <div class="inner">
+              <header class="article-header">
+                <h1 class="article-title" itemprop="name">Query Relations</h1>
+                <a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/hexojs/site/edit/master/source/model/query_relations.md" class="article-edit-link" title="Improve this doc"><i class="fa fa-pencil"></i></a>
+              </header>
+              <div class="article-content" itemprop="articleBody">
+                <p>Since all relations are defined via methods,and they are retrived by separate sql querys.</p>
+<p>You can add other constraints before load relation results from database.</p>
+<h3 id="Add-constrains-use-with-or-relationmethod" class="article-heading"><a href="#Add-constrains-use-with-or-relationmethod" class="headerlink" title="Add constrains use with or relationmethod"></a>Add constrains use <code>with</code> or relationmethod<a class="article-anchor" href="#Add-constrains-use-with-or-relationmethod" aria-hidden="true"></a></h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">var u models.User</span><br><span class="line">DB.Model(&amp;u).With(map[string]func(builder *goeloquent.RelationBuilder) *goeloquent.RelationBuilder&#123;</span><br><span class="line">    &quot;Posts&quot;: func(builder *goeloquent.RelationBuilder) *goeloquent.RelationBuilder &#123;</span><br><span class="line">        builder.Where(&quot;title&quot;, &quot;like&quot;, fmt.Sprintf(&quot;%%%s%%&quot;, &quot;struct&quot;)).OrWhere(&quot;content&quot;, &quot;like&quot;, fmt.Sprintf(&quot;%%%s%%&quot;, &quot;struct&quot;))</span><br><span class="line">        return builder</span><br><span class="line">    &#125;,</span><br><span class="line">&#125;).Find(&amp;u, 4)</span><br><span class="line">//&#123;select * from `users` where `id` in (?) limit 1 [4] &#123;1&#125; 66.970403ms&#125;</span><br><span class="line">//&#123;select * from `posts` where `user_id` is  not null  and `user_id` in (?) and `title` like ? or `content` like ? [4 %struct% %struct%] &#123;4&#125; 73.976216ms&#125;</span><br><span class="line"></span><br><span class="line">var posts []models.Post</span><br><span class="line">u.PostsRelation().Where(&quot;title&quot;, &quot;like&quot;, fmt.Sprintf(&quot;%%%s%%&quot;, &quot;struct&quot;)).Get(&amp;posts) </span><br><span class="line">//&#123;select * from `posts` where `user_id` = ? and `user_id` is  not null  and `title` like ? [4 %struct%] &#123;1&#125; 66.896803ms&#125;</span><br></pre></td></tr></table></figure>
+
+<h3 id="Load-mutiple-relations" class="article-heading"><a href="#Load-mutiple-relations" class="headerlink" title="Load mutiple relations"></a>Load mutiple relations<a class="article-anchor" href="#Load-mutiple-relations" aria-hidden="true"></a></h3><figure class="highlight go"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> us []models.User</span><br><span class="line">DB.Model(&amp;u).With(<span class="string">&quot;Videos&quot;</span>, <span class="string">&quot;Posts&quot;</span>).Find(&amp;us, []<span class="keyword">interface</span>&#123;&#125;&#123;<span class="number">4</span>, <span class="number">6</span>, <span class="number">8</span>&#125;)</span><br><span class="line"><span class="comment">//&#123;select * from `users` where `id` in (?,?,?) [4 6 8] &#123;3&#125; 67.432028ms&#125;</span></span><br><span class="line"><span class="comment">//&#123;select * from `videos` where `user_id` is  not null  and `user_id` in (?,?,?) [4 6 8] &#123;1&#125; 73.787433ms&#125;</span></span><br><span class="line"><span class="comment">//&#123;select * from `posts` where `user_id` is  not null  and `user_id` in (?,?,?) [4 6 8] &#123;2&#125; 68.884461ms&#125;</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="Load-nested-relations" class="article-heading"><a href="#Load-nested-relations" class="headerlink" title="Load nested relations"></a>Load nested relations<a class="article-anchor" href="#Load-nested-relations" aria-hidden="true"></a></h3><figure class="highlight go"><table><tr><td class="code"><pre><span class="line">DB.Model(&amp;u).With(<span class="keyword">map</span>[<span class="type">string</span>]<span class="function"><span class="keyword">func</span><span class="params">(builder *goeloquent.RelationBuilder)</span></span> *goeloquent.RelationBuilder&#123;</span><br><span class="line">    <span class="string">&quot;Posts.Comments&quot;</span>:<span class="function"><span class="keyword">func</span><span class="params">(builder *goeloquent.RelationBuilder)</span></span> *goeloquent.RelationBuilder &#123;</span><br><span class="line">        builder.Where(<span class="string">&quot;upvote_count&quot;</span>, <span class="string">&quot;&gt;&quot;</span>, <span class="number">0</span>)</span><br><span class="line">        <span class="keyword">return</span> builder</span><br><span class="line">    &#125;,</span><br><span class="line">    <span class="string">&quot;Videos.Comments&quot;</span>:<span class="function"><span class="keyword">func</span><span class="params">(builder *goeloquent.RelationBuilder)</span></span> *goeloquent.RelationBuilder &#123;</span><br><span class="line">        builder.Where(<span class="string">&quot;upvote_count&quot;</span>, <span class="string">&quot;&gt;&quot;</span>, <span class="number">0</span>)</span><br><span class="line">        <span class="keyword">return</span> builder</span><br><span class="line">    &#125;,</span><br><span class="line">&#125;).Find(&amp;u, <span class="number">4</span>)</span><br><span class="line"><span class="comment">//&#123;select * from `users` where `id` in (?) limit 1 [4] &#123;1&#125; 65.780493ms&#125;</span></span><br><span class="line"><span class="comment">//&#123;select * from `posts` where `user_id` is  not null  and `user_id` in (?) [4] &#123;2&#125; 63.999841ms&#125;</span></span><br><span class="line"><span class="comment">//&#123;select * from `comments` where `commentable_id` is  not null  and `commentable_type` = ? and `commentable_id` in (?,?) and `upvote_count` &gt; ? [post 2 12 0] &#123;1&#125; 63.856649ms&#125;</span></span><br><span class="line"><span class="comment">//&#123;select * from `videos` where `user_id` is  not null  and `user_id` in (?) [4] &#123;1&#125; 65.756311ms&#125;</span></span><br><span class="line"><span class="comment">//&#123;select * from `comments` where `commentable_id` is  not null  and `commentable_type` = ? and `commentable_id` in (?) and `upvote_count` &gt; ? [video 2 0] &#123;1&#125; 68.023121ms&#125;</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="Query-PivotTable" class="article-heading"><a href="#Query-PivotTable" class="headerlink" title="Query PivotTable"></a>Query PivotTable<a class="article-anchor" href="#Query-PivotTable" aria-hidden="true"></a></h3><p>In many to many relations , there is a pivot table, you can add constraints or get it . Use <code>WherePivot</code> and <code>WithPivot</code><br>In previous example we have a user-role many to many relation.Below is pivot table structure</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">user_roles</span><br><span class="line">    id - integer,</span><br><span class="line">    user_id - integer</span><br><span class="line">    role_id - integer</span><br><span class="line">    granted_by - integer</span><br><span class="line">    granted_at - timestamp</span><br><span class="line">    status - integer</span><br></pre></td></tr></table></figure>
+<p>Query Example</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">var r Role</span><br><span class="line">var rs []Role</span><br><span class="line">_, _ = goeloquent.Eloquent.Model(&amp;Role&#123;&#125;).Where(&quot;id&quot;, 12).With(&quot;Users&quot;, &quot;UsersP&quot;).WithPivot(&quot;status&quot;,&quot;id&quot;).First(&amp;r)</span><br><span class="line">//&#123;select * from `roles` where `id` = ? limit 1 [12] &#123;1&#125; 74.899725ms&#125;</span><br><span class="line">//&#123;select `users`.*,`user_roles`.`role_id` as `goelo_pivot_role_id`,`user_roles`.`user_id` as `goelo_pivot_user_id`,`user_roles`.`status` as `goelo_pivot_status`,`user_roles`.`id` as `goelo_pivot_id` from `users` inner join user_roles on `user_roles`.`user_id` = `users`.`id` where `user_roles`.`role_id` in (?) [12] &#123;1&#125; 80.412644ms&#125;</span><br><span class="line"></span><br><span class="line">_, _ = goeloquent.Eloquent.Model(&amp;Role&#123;&#125;).With(&quot;Users&quot;, &quot;UsersP&quot;).WherePivot(&quot;granted_by&quot;, 2).WithPivot(&quot;granted_by&quot;).Get(&amp;rs)</span><br><span class="line">//&#123;select * from `roles` [] &#123;4&#125; 66.349528ms&#125;</span><br><span class="line">fmt.Println(rs[0].Users[0].Pivot[&quot;goelo_pivot_granted_by&quot;])</span><br><span class="line">//&#123;2 true&#125; sql.NullString</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+              </div>
+              <footer class="article-footer">
+                <time class="article-footer-updated" datetime="2022-08-16T08:42:02.289Z" itemprop="dateModified">Last updated: 2022-08-16</time>
+                <a href="many_to_many_morph.html" class="article-footer-prev" title="Many To Many Morph"><i class="fa fa-chevron-left"></i><span>Prev</span></a>
+              </footer>
+              
+            </div>
+          </div>
+          <aside id="article-toc" role="navigation">
+            <div id="article-toc-inner">
+              <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=hexoio" id="_carbonads_js"></script>
+              <strong class="sidebar-title">Contents</strong>
+              <ol class="toc"><li class="toc-item toc-level-3"><a class="toc-link" href="#Add-constrains-use-with-or-relationmethod"><span class="toc-text">Add constrains use with or relationmethod</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Load-mutiple-relations"><span class="toc-text">Load mutiple relations</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Load-nested-relations"><span class="toc-text">Load nested relations</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Query-PivotTable"><span class="toc-text">Query PivotTable</span></a></li></ol>
+              <a href="#" id="article-toc-top">Back to Top</a>
+            </div>
+          </aside>
+        </div>
+      </article>
+      <aside id="sidebar" role="navigation">
+  <div class="inner">
+    <strong class="sidebar-title">sidebar.model.eloquent</strong><a href="model.html" class="sidebar-link">Model</a><strong class="sidebar-title">sidebar.model.relations</strong><a href="one_to_one.html" class="sidebar-link">One To One</a><a href="one_to_many.html" class="sidebar-link">One To Many</a><a href="many_to_many.html" class="sidebar-link">Many To Many</a><a href="one_to_one_morph.html" class="sidebar-link">One To One Morph</a><a href="one_to_many_morph.html" class="sidebar-link">One To Many Morph</a><a href="many_to_many_morph.html" class="sidebar-link">Many To Many Morph</a><a href="query_relations.html" class="sidebar-link current">Query Relations</a>
+  </div>
+</aside>
+    </div>
+  </div>
+</div>
+
+    <footer id="footer" class="wrapper">
+  <div class="inner">
+    <div id="footer-copyright">
+      &copy; 2022 <a href="https://github.com/hexojs/hexo/graphs/contributors" rel="external nofollow noreferrer" target="_blank">GlitterLip</a><br>
+      Documentation licensed under <a href="http://creativecommons.org/licenses/by/4.0/" rel="external nofollow noreferrer" target="_blank">CC BY 4.0</a>.
+    </div>
+    <div id="footer-links">
+      <a href="https://www.netlify.com/" rel="external nofollow noreferrer" class="footer-link" target="_blank"><img src="https://www.netlify.com/img/global/badges/netlify-dark.svg" style="margin-bottom:-14px"/></a>
+      <a href="https://twitter.com/" rel="external nofollow noreferrer" class="footer-link" target="_blank"><i class="fa fa-twitter"></i></a>
+      <a href="https://github.com/" rel="external nofollow noreferrer" class="footer-link" target="_blank"><i class="fa fa-github-alt"></i></a>
+    </div>
+  </div>
+</footer>
+
+  </div>
+  <div id="mobile-nav-dimmer"></div>
+  <nav id="mobile-nav">
+  <div id="mobile-nav-inner">
+    <ul id="mobile-nav-list">
+      <a href="/database/" class="mobile-nav-link">Database</a><a href="/model/" class="mobile-nav-link">Model</a><a href="/about/" class="mobile-nav-link">About</a>
+      <li class="mobile-nav-item">
+        <a href="https://github.com/" class="mobile-nav-link" rel="external" target="_blank">GitHub</a>
+      </li>
+    </ul>
+    
+      <strong class="mobile-nav-title">sidebar.model.eloquent</strong><a href="model.html" class="mobile-nav-link">Model</a><strong class="mobile-nav-title">sidebar.model.relations</strong><a href="one_to_one.html" class="mobile-nav-link">One To One</a><a href="one_to_many.html" class="mobile-nav-link">One To Many</a><a href="many_to_many.html" class="mobile-nav-link">Many To Many</a><a href="one_to_one_morph.html" class="mobile-nav-link">One To One Morph</a><a href="one_to_many_morph.html" class="mobile-nav-link">One To Many Morph</a><a href="many_to_many_morph.html" class="mobile-nav-link">Many To Many Morph</a><a href="query_relations.html" class="mobile-nav-link current">Query Relations</a>
+    
+  </div>
+  <div id="mobile-lang-select-wrap">
+    <span id="mobile-lang-select-label"><i class="fa fa-globe"></i><span>English</span></span>
+    <select id="mobile-lang-select" data-canonical="model/query_relations.html">
+      
+        <option value="en" selected>English</option>
+      
+    </select>
+  </div>
+</nav>
+  <!-- Scripts -->
+<!-- Cookie -->
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+<!-- build:js build/js/main.js -->
+
+<script src="/js/lang_select.js"></script>
+
+
+<script src="/js/mobile_nav.js"></script>
+
+<!-- endbuild -->
+
+<!-- Algolia -->
+
+
+</body>
+</html>

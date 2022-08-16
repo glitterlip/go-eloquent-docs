@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <meta charset="utf-8">
+  <title>Model | Go Eloquent</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Canonical links -->
+  <link rel="canonical" href="http://localhost:4000/model/model.html">
+  <!-- Alternative links -->
+  
+    
+      <link rel="alternative" hreflang="en" href="http://localhost:4000/model/model">
+    
+  
+  <!-- Icon -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/icon/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/icon/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/icon/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/icon/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/icon/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/icon/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/icon/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/icon/apple-touch-icon-152x152.png">
+  <link rel="icon" type="image/png" href="/icon/favicon-196x196.png" sizes="196x196">
+  <link rel="icon" type="image/png" href="/icon/favicon-160x160.png" sizes="160x160">
+  <link rel="icon" type="image/png" href="/icon/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="/icon/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="/icon/favicon-32x32.png" sizes="32x32">
+  <meta name="msapplication-TileColor" content="#2f83cd">
+  <meta name="msapplication-TileImage" content="/icon/mstile-144x144.png">
+  <!-- CSS -->
+  <!-- build:css build/css/navy.css -->
+  
+<link rel="stylesheet" href="/css/navy.css">
+
+  <!-- endbuild -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/typeface-lato@0.0.75/index.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.3.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css">
+  <!-- RSS -->
+  <link rel="alternate" href="/atom.xml" title="Go Eloquent" type="application/atom+xml">
+  <!-- Open Graph -->
+  <meta name="description" content="Model is a more advanced struct.With Relationships,Events,Connection,TimeStamps features. ConventionsFirst,let’s see how to define a model.  A model should be a struct with an embed anonymous struct p">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Model">
+<meta property="og:url" content="http://localhost:4000/model/model">
+<meta property="og:site_name" content="Go Eloquent">
+<meta property="og:description" content="Model is a more advanced struct.With Relationships,Events,Connection,TimeStamps features. ConventionsFirst,let’s see how to define a model.  A model should be a struct with an embed anonymous struct p">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2022-08-16T08:42:02.288Z">
+<meta property="article:modified_time" content="2022-08-16T08:42:02.288Z">
+<meta property="article:author" content="GlitterLip">
+<meta name="twitter:card" content="summary">
+  <!-- Google Analytics -->
+  
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-6482217598104186",
+          enable_page_level_ads: true
+     });
+  </script>
+<meta name="generator" content="Hexo 6.2.0"></head>
+
+<body>
+  <div id="container">
+    <header id="header" class="wrapper">
+  <div id="header-inner" class="inner">
+    <h1 id="logo-wrap">
+      <a href="/" id="logo">Hexo</a>
+    </h1>
+    <nav id="main-nav">
+      <a href="/database/" class="main-nav-link">Database</a><a href="/model/" class="main-nav-link">Model</a><a href="/about/" class="main-nav-link">About</a>
+      <a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/" class="main-nav-link"><i class="fa fa-github-alt"></i></a>
+      <div id="search-input-wrap">
+        <div id="search-input-icon">
+          <i class="fa fa-search"></i>
+        </div>
+        <input type="search" id="search-input" placeholder="Search...">
+      </div>
+    </nav>
+    <div id="lang-select-wrap">
+      <label id="lang-select-label"><i class="fa fa-globe"></i><span>English</span></label>
+      <select id="lang-select" data-canonical="model/model.html">
+        
+          <option value="en" selected>English</option>
+        
+      </select>
+    </div>
+    <a id="mobile-nav-toggle">
+      <span class="mobile-nav-toggle-bar"></span>
+      <span class="mobile-nav-toggle-bar"></span>
+      <span class="mobile-nav-toggle-bar"></span>
+    </a>
+  </div>
+</header>
+
+    <div id="content-wrap">
+  <div id="content" class="wrapper">
+    <div id="content-inner">
+      <article class="article-container" itemscope itemtype="http://schema.org/Article">
+        <div class="article-inner">
+          <div class="article">
+            <div class="inner">
+              <header class="article-header">
+                <h1 class="article-title" itemprop="name">Model</h1>
+                <a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/hexojs/site/edit/master/source/model/model.md" class="article-edit-link" title="Improve this doc"><i class="fa fa-pencil"></i></a>
+              </header>
+              <div class="article-content" itemprop="articleBody">
+                <p>Model is a more advanced struct.With <strong>Relationships</strong>,<strong>Events</strong>,<strong>Connection</strong>,<strong>TimeStamps</strong> features.</p>
+<h2 id="Conventions" class="article-heading"><a href="#Conventions" class="headerlink" title="Conventions"></a>Conventions<a class="article-anchor" href="#Conventions" aria-hidden="true"></a></h2><p>First,let’s see how to define a model.</p>
+<ol>
+<li>A model should be a struct with an embed anonymous struct pointer of type <code>goeloquent.EloquentModel</code></li>
+<li>primaryKey should be <code>int64</code> with tag <code>goelo:&quot;primaryKey&quot;</code></li>
+<li><strong>Each database table column</strong> should have a tag <code>goelo:&quot;column:databasefiledname&quot;</code></li>
+<li>By default , we will use the model’s SnakeCase name as table name (e.g. ‘User’ as ‘user’,’UserInfo’ as ‘user_info’’)<br>,you can change this by implement <code>type TableName interface</code></li>
+<li>By default , we will use the connection with name <code>default</code>.You can change this by<br>implement <code>type ConnectionName interface</code>.</li>
+<li>When creating model,we will set timestamps for you if you have a tag <code>goelo:&quot;column:created_at;CREATED_AT&quot;</code></li>
+<li>When updating model,we will set timestamps for you if you have a tag <code>goelo:&quot;column:updated_at;UPDATED_AT&quot;</code></li>
+</ol>
+<p>Example of User model</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">type UserT struct &#123;</span><br><span class="line">	*goeloquent.EloquentModel</span><br><span class="line">	Id          int64   `goelo:&quot;column:id;primaryKey&quot;`</span><br><span class="line">	UserName    string  `goelo:&quot;column:name&quot;`</span><br><span class="line">	Age         int     `goelo:&quot;column:age&quot;`</span><br><span class="line">	ViewedPosts []Post  `goelo:&quot;BelongsToMany:ViewedPostsRelation&quot;`</span><br><span class="line">	Friends     []UserT `goelo:&quot;BelongsToMany:FriendsRelation&quot;`</span><br><span class="line">	Address     Address `goelo:&quot;HasOne:AddressRelation&quot;`</span><br><span class="line">	Posts       []Post  `goelo:&quot;HasMany:PostsRelation&quot;`</span><br><span class="line"></span><br><span class="line">	CreatedAt time.Time    `goelo:&quot;column:created_at;CREATED_AT&quot;`</span><br><span class="line">	UpdatedAt sql.NullTime `goelo:&quot;column:updated_at;UPDATED_AT&quot;`</span><br><span class="line">&#125;</span><br><span class="line">func (u *UserT) TableName() string &#123;</span><br><span class="line">	return &quot;user&quot;</span><br><span class="line">&#125;</span><br><span class="line">func (u *UserT) ConnectionName() string &#123;</span><br><span class="line">	return &quot;chat&quot;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">## Retrive Models</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p>var us []UserT<br>DB.Model(&amp;UserT{}).Where(“age”, “&gt;”, 0).Get(&amp;us)<br>//select * from <code>user</code> where <code>age</code> &gt; ? [0] {23} 61.963146ms<br>fmt.Println(us)</p>
+<p>var u UserT<br>DB.Model(&amp;UserT{}).Find(&amp;u,22)<br>//{select * from <code>users</code> where <code>age</code> &gt; ? [0] {23} 76.868039ms}</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">## Create Model</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p>var nu UserT<br>goeloquent.NewModel(&amp;nu)<br>nu.Age = 23<br>nu.UserName = “hello”<br>nu.Phone = sql.NullString{<br>  String: “+19785920200”,<br>  Valid:  true,<br>}<br>DB.Save(&amp;nu)<br>//{insert into <code>users</code> ( <code>user_name</code>,<code>phone</code>,<code>age</code>,<code>created_at</code> ) values  ( ? , ? , ? , ? )  [hello {+19785920200 true} 23 {2021-11-05 16:21:47.188486 +0800 CST m=+0.570200737 true}] <nil> 65.652297ms}</nil></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">## Update Model</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p>var u UserT<br>DB.Model(&amp;UserT{}).Find(&amp;u, 22)<br>u.Age = 23<br>u.Save()<br>//{update <code>users</code> set <code>user_name</code> = ? , <code>nick_name</code> = ? , <code>phone</code> = ? , <code>age</code> = ? , <code>created_at</code> = ? , <code>updated_at</code> = ?<br>//where <code>id</code> = ? [s {s true} {1965320233 true} 23 {2021-04-07 15:33:21 +0000 UTC true} {2021-11-05 16:13:19.467342 +0800 CST m=+0.424807671 true} 22] {0xc000162360 0xc00012d110} 64.493242ms}<br>DB.Save(&amp;u)</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">## Mass Update</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p>var u UserT<br>DB.Model(&amp;u).Where(“age”, “&gt;”, 200).Update(map[string]interface{}{<br>  “age”:   goeloquent.Expression{Value: “age + 10”},<br>  “phone”: “unknown”,<br>})<br>//{update <code>users</code> set <code>age</code> = age + 10 , <code>phone</code> = ? where <code>age</code> &gt; ? [unknown 200] {0xc000140090 0xc00001eea0} 72.325303ms}</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">You can use `Only/Except` to specify which columns to be inserted/updated</span><br><span class="line"></span><br><span class="line">```golang</span><br><span class="line">type Temp struct &#123;</span><br><span class="line">     Id     int64  `goelo:&quot;column:tid;primaryKey&quot;`</span><br><span class="line">     Name   string `goelo:&quot;column:name&quot;`</span><br><span class="line">     Status int8   `goelo:&quot;column:status&quot;`</span><br><span class="line">&#125;</span><br><span class="line">type TempB struct &#123;</span><br><span class="line">     Id   int64</span><br><span class="line">     Name string</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">var tagt, tag Temp</span><br><span class="line">var tagtt TempB</span><br><span class="line">tag.Name = &quot;test&quot;</span><br><span class="line">tagt.Name = &quot;test&quot;</span><br><span class="line">tagt.Status = 1</span><br><span class="line">tagtt.Name = &quot;test&quot;</span><br><span class="line"> </span><br><span class="line">DB.Table(&quot;tag&quot;).Insert(tag)</span><br><span class="line">//&quot;insert into `tag` (`name`) values (?)&quot;</span><br><span class="line"></span><br><span class="line">DB.Table(&quot;tag&quot;).Only(&quot;name&quot;).Insert(tagt)</span><br><span class="line">//&quot;insert into `tag` (`name`) values (?)&quot;</span><br><span class="line"></span><br><span class="line">DB.Model().Except(&quot;id&quot;).Insert(&amp;tagtt)</span><br><span class="line">//&quot;insert into `tag` (`name`) values (?)&quot;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h2 id="Scopes" class="article-heading"><a href="#Scopes" class="headerlink" title="Scopes"></a>Scopes<a class="article-anchor" href="#Scopes" aria-hidden="true"></a></h2><h3 id="FuncScope" class="article-heading"><a href="#FuncScope" class="headerlink" title="FuncScope"></a>FuncScope<a class="article-anchor" href="#FuncScope" aria-hidden="true"></a></h3><figure class="highlight golang"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="title">AgeScope</span><span class="params">(builder *goeloquent.Builder)</span></span> *goeloquent.Builder &#123;</span><br><span class="line">	<span class="keyword">return</span> builder.Where(<span class="string">&quot;age&quot;</span>, <span class="string">&quot;&gt;&quot;</span>, <span class="number">18</span>)</span><br><span class="line">&#125;</span><br><span class="line">b1 := DB.Query()</span><br><span class="line">b1.Select().From(<span class="string">&quot;users&quot;</span>).Scopes(AgeScope, ScopeFunc).Get(&amp;us)</span><br><span class="line"><span class="comment">//&#123;select * from `users` where `age` &gt; ? order by `id` desc [18] &lt;nil&gt; 40.616291ms&#125;</span></span><br></pre></td></tr></table></figure>
+<h3 id="Model-Global-Scope" class="article-heading"><a href="#Model-Global-Scope" class="headerlink" title="Model Global Scope"></a>Model Global Scope<a class="article-anchor" href="#Model-Global-Scope" aria-hidden="true"></a></h3><h4 id="Add-global-scope-to-model" class="article-heading"><a href="#Add-global-scope-to-model" class="headerlink" title="Add global scope to model"></a>Add global scope to model<a class="article-anchor" href="#Add-global-scope-to-model" aria-hidden="true"></a></h4><figure class="highlight golang"><table><tr><td class="code"><pre><span class="line"><span class="keyword">type</span> Tag1 <span class="keyword">struct</span> &#123;</span><br><span class="line">	*goeloquent.EloquentModel</span><br><span class="line">	ID   <span class="type">int64</span>  <span class="string">`goelo:&quot;column:tid;primaryKey&quot;`</span></span><br><span class="line">	Name <span class="type">string</span> <span class="string">`goelo:&quot;column:name&quot;`</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(t *Tag1)</span></span> AddGlobalScopes() <span class="keyword">map</span>[<span class="type">string</span>]goeloquent.ScopeFunc &#123;</span><br><span class="line">	<span class="keyword">return</span> <span class="keyword">map</span>[<span class="type">string</span>]goeloquent.ScopeFunc&#123;</span><br><span class="line">		<span class="string">&quot;active&quot;</span>: <span class="function"><span class="keyword">func</span><span class="params">(builder *goeloquent.Builder)</span></span> *goeloquent.Builder &#123;</span><br><span class="line">			<span class="keyword">return</span> builder.Where(<span class="string">&quot;active&quot;</span>, <span class="number">1</span>)</span><br><span class="line">		&#125;,</span><br><span class="line">	&#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">var</span> tags []Tag1</span><br><span class="line">b := DB.Model(&amp;Tag1&#123;&#125;)</span><br><span class="line">_, err := b.Pretend().Get(&amp;tags)</span><br><span class="line"><span class="comment">//&quot;select * from `tag1` where `active` = ?&quot;</span></span><br></pre></td></tr></table></figure>
+<h4 id="Remove-global-scope" class="article-heading"><a href="#Remove-global-scope" class="headerlink" title="Remove global scope"></a>Remove global scope<a class="article-anchor" href="#Remove-global-scope" aria-hidden="true"></a></h4><figure class="highlight golang"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> tags []Tag1</span><br><span class="line">b := DB.Model(&amp;Tag1&#123;&#125;)</span><br><span class="line">_, err := b.Pretend().WithOutGlobalScopes(<span class="string">&quot;active&quot;</span>).Get(&amp;tags)</span><br><span class="line"><span class="comment">//&quot;select * from `tag1`&quot;</span></span><br></pre></td></tr></table></figure>
+<h2 id="Events" class="article-heading"><a href="#Events" class="headerlink" title="Events"></a>Events<a class="article-anchor" href="#Events" aria-hidden="true"></a></h2><p>Like Laravel,we have model events in model’s lifecycle.<br>We have <code>saving,saved,creating,created,updating,updated,deleting,deleted</code> model events.<br>Below is the event order.</p>
+<p>For create <code>saving-&gt;creating-&gt;insert operation-&gt;created-&gt;saved</code><br>For update <code>saving-&gt;updating-&gt;update operation -&gt;updated-&gt;saved</code><br>For delete <code>deleting-&gt;delte operation-&gt;deleted</code><br>In any <code>ing</code> event return an error will abort the database operation</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">func (u *UserT) Creating(builder *goeloquent.Builder) (err error) &#123;</span><br><span class="line">	if u.Age &lt;= 0 &#123;</span><br><span class="line">		u.Age = 10 //change it  </span><br><span class="line">	&#125;</span><br><span class="line">	fmt.Println(u.Exists)//false</span><br><span class="line">	u.GetOrigin()//map with default values</span><br><span class="line">	u.GetDirty() //map with non-zero values</span><br><span class="line">	u.GetChanges() //it&#x27;s not saved to dasebase so empty</span><br><span class="line">	if strings.Contains(u.NickName.String, &quot;shit&quot;) &#123;</span><br><span class="line">		return errors.New(&quot;bad name&quot;) //return error to abort create</span><br><span class="line">	&#125;</span><br><span class="line">   return nil //if it return error, abort sql execution with err &quot;abort by  func&quot;</span><br><span class="line">&#125;</span><br><span class="line">func (u *UserT) Created(builder *goeloquent.Builder)(err error) &#123;</span><br><span class="line">	u.GetOrigin() //same with creating</span><br><span class="line">	u.GetDirty() //same with creating and an `id` value</span><br><span class="line">	u.GetChanges() //same with creating</span><br><span class="line">     return nil</span><br><span class="line">&#125;</span><br><span class="line">func (u *UserT) Updating(builder *goeloquent.Builder) (err error) &#123;</span><br><span class="line">	u.GetOrigin()//original databse value</span><br><span class="line">	u.GetDirty()//map with changed values</span><br><span class="line">	u.GetChanges() // empty map</span><br><span class="line">	return nil</span><br><span class="line">&#125;</span><br><span class="line">func (u *UserT) Updated(builder *goeloquent.Builder)(err error) &#123;</span><br><span class="line">	u.GetOrigin()//same with updating</span><br><span class="line">	u.GetDirty()//same with updating</span><br><span class="line">	u.GetChanges()//same with GetDirty</span><br><span class="line">	return nil</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line">func (u *UserT) Saving(builder *goeloquent.Builder) (err error) &#123;</span><br><span class="line">	u.GetOrigin()//when create same with creating,when update same with updating</span><br><span class="line">	u.GetDirty()//when create same with creating,when update same with updating</span><br><span class="line">	u.GetChanges()//when create same with creating,when update same with updating</span><br><span class="line">	return nil</span><br><span class="line">&#125;</span><br><span class="line">func (u *UserT) Saved(builder *goeloquent.Builder)(err error) &#123;</span><br><span class="line">	u.GetOrigin() //when create same with created</span><br><span class="line">	u.GetDirty()//when create same with created</span><br><span class="line">	u.GetChanges()//when create same with created</span><br><span class="line">	return nil</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line">func (u *UserT) Deleting(builder *goeloquent.Builder)(err error) &#123;</span><br><span class="line">	u.GetOrigin()</span><br><span class="line">	u.GetDirty()</span><br><span class="line">	u.GetChanges()</span><br><span class="line">	return nil</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line">func (u *UserT) Deleted(builder *goeloquent.Builder)(err error) &#123;</span><br><span class="line">	u.GetOrigin()</span><br><span class="line">	u.GetDirty()</span><br><span class="line">	u.GetChanges()</span><br><span class="line">	return nil</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<h2 id="GetOrigin-GetDirty-GetChange" class="article-heading"><a href="#GetOrigin-GetDirty-GetChange" class="headerlink" title="GetOrigin/GetDirty/GetChange"></a>GetOrigin/GetDirty/GetChange<a class="article-anchor" href="#GetOrigin-GetDirty-GetChange" aria-hidden="true"></a></h2><p>You can call <code>GetOrigin</code> to get the original attributes since you retrive it from database.<br>If it’s just created and haven’t been save to database it will be a <code>map[string]interface</code> with all default values.<br>You can get a <code>map[string]interface</code> with all changed value than hasn’t been save to databse yet by call <code>GetDirty</code>.</p>
+<h3 id="Mute-Events" class="article-heading"><a href="#Mute-Events" class="headerlink" title="Mute Events"></a>Mute Events<a class="article-anchor" href="#Mute-Events" aria-hidden="true"></a></h3><p>If you don’t want trigger event use <code>Mute()</code></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">var u UserT</span><br><span class="line">DB.Model(&amp;UserT&#123;&#125;).Find(&amp;u, 22)</span><br><span class="line">u.Age = 23</span><br><span class="line">u.Mute(goeloquent.EventUpdating,goeloquent.EventUpdated,goeloquent.EventSaving,goeloquent.EventSaved).Save()</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p>If you are creating a model and wants to mute some event call <code>DB.Boot(&amp;u)</code> before you use <code>Mute</code></p>
+
+              </div>
+              <footer class="article-footer">
+                <time class="article-footer-updated" datetime="2022-08-16T08:42:02.288Z" itemprop="dateModified">Last updated: 2022-08-16</time>
+                <a href="one_to_one.html" class="article-footer-next" title="One To One"><span>Next</span><i class="fa fa-chevron-right"></i></a>
+              </footer>
+              
+            </div>
+          </div>
+          <aside id="article-toc" role="navigation">
+            <div id="article-toc-inner">
+              <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=hexoio" id="_carbonads_js"></script>
+              <strong class="sidebar-title">Contents</strong>
+              <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#Conventions"><span class="toc-text">Conventions</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Scopes"><span class="toc-text">Scopes</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#FuncScope"><span class="toc-text">FuncScope</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Model-Global-Scope"><span class="toc-text">Model Global Scope</span></a><ol class="toc-child"><li class="toc-item toc-level-4"><a class="toc-link" href="#Add-global-scope-to-model"><span class="toc-text">Add global scope to model</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#Remove-global-scope"><span class="toc-text">Remove global scope</span></a></li></ol></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Events"><span class="toc-text">Events</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#GetOrigin-GetDirty-GetChange"><span class="toc-text">GetOrigin&#x2F;GetDirty&#x2F;GetChange</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Mute-Events"><span class="toc-text">Mute Events</span></a></li></ol></li></ol>
+              <a href="#" id="article-toc-top">Back to Top</a>
+            </div>
+          </aside>
+        </div>
+      </article>
+      <aside id="sidebar" role="navigation">
+  <div class="inner">
+    <strong class="sidebar-title">sidebar.model.eloquent</strong><a href="model.html" class="sidebar-link current">Model</a><strong class="sidebar-title">sidebar.model.relations</strong><a href="one_to_one.html" class="sidebar-link">One To One</a><a href="one_to_many.html" class="sidebar-link">One To Many</a><a href="many_to_many.html" class="sidebar-link">Many To Many</a><a href="one_to_one_morph.html" class="sidebar-link">One To One Morph</a><a href="one_to_many_morph.html" class="sidebar-link">One To Many Morph</a><a href="many_to_many_morph.html" class="sidebar-link">Many To Many Morph</a><a href="query_relations.html" class="sidebar-link">Query Relations</a>
+  </div>
+</aside>
+    </div>
+  </div>
+</div>
+
+    <footer id="footer" class="wrapper">
+  <div class="inner">
+    <div id="footer-copyright">
+      &copy; 2022 <a href="https://github.com/hexojs/hexo/graphs/contributors" rel="external nofollow noreferrer" target="_blank">GlitterLip</a><br>
+      Documentation licensed under <a href="http://creativecommons.org/licenses/by/4.0/" rel="external nofollow noreferrer" target="_blank">CC BY 4.0</a>.
+    </div>
+    <div id="footer-links">
+      <a href="https://www.netlify.com/" rel="external nofollow noreferrer" class="footer-link" target="_blank"><img src="https://www.netlify.com/img/global/badges/netlify-dark.svg" style="margin-bottom:-14px"/></a>
+      <a href="https://twitter.com/" rel="external nofollow noreferrer" class="footer-link" target="_blank"><i class="fa fa-twitter"></i></a>
+      <a href="https://github.com/" rel="external nofollow noreferrer" class="footer-link" target="_blank"><i class="fa fa-github-alt"></i></a>
+    </div>
+  </div>
+</footer>
+
+  </div>
+  <div id="mobile-nav-dimmer"></div>
+  <nav id="mobile-nav">
+  <div id="mobile-nav-inner">
+    <ul id="mobile-nav-list">
+      <a href="/database/" class="mobile-nav-link">Database</a><a href="/model/" class="mobile-nav-link">Model</a><a href="/about/" class="mobile-nav-link">About</a>
+      <li class="mobile-nav-item">
+        <a href="https://github.com/" class="mobile-nav-link" rel="external" target="_blank">GitHub</a>
+      </li>
+    </ul>
+    
+      <strong class="mobile-nav-title">sidebar.model.eloquent</strong><a href="model.html" class="mobile-nav-link current">Model</a><strong class="mobile-nav-title">sidebar.model.relations</strong><a href="one_to_one.html" class="mobile-nav-link">One To One</a><a href="one_to_many.html" class="mobile-nav-link">One To Many</a><a href="many_to_many.html" class="mobile-nav-link">Many To Many</a><a href="one_to_one_morph.html" class="mobile-nav-link">One To One Morph</a><a href="one_to_many_morph.html" class="mobile-nav-link">One To Many Morph</a><a href="many_to_many_morph.html" class="mobile-nav-link">Many To Many Morph</a><a href="query_relations.html" class="mobile-nav-link">Query Relations</a>
+    
+  </div>
+  <div id="mobile-lang-select-wrap">
+    <span id="mobile-lang-select-label"><i class="fa fa-globe"></i><span>English</span></span>
+    <select id="mobile-lang-select" data-canonical="model/model.html">
+      
+        <option value="en" selected>English</option>
+      
+    </select>
+  </div>
+</nav>
+  <!-- Scripts -->
+<!-- Cookie -->
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+<!-- build:js build/js/main.js -->
+
+<script src="/js/lang_select.js"></script>
+
+
+<script src="/js/mobile_nav.js"></script>
+
+<!-- endbuild -->
+
+<!-- Algolia -->
+
+
+</body>
+</html>

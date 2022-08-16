@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns#">
+  <meta charset="utf-8">
+  <title>One To One Relation | Go Eloquent</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Canonical links -->
+  <link rel="canonical" href="http://localhost:4000/model/one_to_one.html">
+  <!-- Alternative links -->
+  
+    
+      <link rel="alternative" hreflang="en" href="http://localhost:4000/model/one_to_one">
+    
+  
+  <!-- Icon -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/icon/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/icon/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/icon/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/icon/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/icon/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/icon/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/icon/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/icon/apple-touch-icon-152x152.png">
+  <link rel="icon" type="image/png" href="/icon/favicon-196x196.png" sizes="196x196">
+  <link rel="icon" type="image/png" href="/icon/favicon-160x160.png" sizes="160x160">
+  <link rel="icon" type="image/png" href="/icon/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="/icon/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="/icon/favicon-32x32.png" sizes="32x32">
+  <meta name="msapplication-TileColor" content="#2f83cd">
+  <meta name="msapplication-TileImage" content="/icon/mstile-144x144.png">
+  <!-- CSS -->
+  <!-- build:css build/css/navy.css -->
+  
+<link rel="stylesheet" href="/css/navy.css">
+
+  <!-- endbuild -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/typeface-lato@0.0.75/index.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.3.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/docsearch.js/1/docsearch.min.css">
+  <!-- RSS -->
+  <link rel="alternate" href="/atom.xml" title="Go Eloquent" type="application/atom+xml">
+  <!-- Open Graph -->
+  <meta name="description" content="One To OneLet’s say we have a User model,every User has an Address, it’s a one-to-one relation .Table address has column user_id  correspond to user table id column.For User model,we add goelo:&quot;H">
+<meta property="og:type" content="website">
+<meta property="og:title" content="One To One Relation">
+<meta property="og:url" content="http://localhost:4000/model/one_to_one">
+<meta property="og:site_name" content="Go Eloquent">
+<meta property="og:description" content="One To OneLet’s say we have a User model,every User has an Address, it’s a one-to-one relation .Table address has column user_id  correspond to user table id column.For User model,we add goelo:&quot;H">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2022-08-16T08:42:02.288Z">
+<meta property="article:modified_time" content="2022-08-16T08:42:02.288Z">
+<meta property="article:author" content="GlitterLip">
+<meta name="twitter:card" content="summary">
+  <!-- Google Analytics -->
+  
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-6482217598104186",
+          enable_page_level_ads: true
+     });
+  </script>
+<meta name="generator" content="Hexo 6.2.0"></head>
+
+<body>
+  <div id="container">
+    <header id="header" class="wrapper">
+  <div id="header-inner" class="inner">
+    <h1 id="logo-wrap">
+      <a href="/" id="logo">Hexo</a>
+    </h1>
+    <nav id="main-nav">
+      <a href="/database/" class="main-nav-link">Database</a><a href="/model/" class="main-nav-link">Model</a><a href="/about/" class="main-nav-link">About</a>
+      <a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/" class="main-nav-link"><i class="fa fa-github-alt"></i></a>
+      <div id="search-input-wrap">
+        <div id="search-input-icon">
+          <i class="fa fa-search"></i>
+        </div>
+        <input type="search" id="search-input" placeholder="Search...">
+      </div>
+    </nav>
+    <div id="lang-select-wrap">
+      <label id="lang-select-label"><i class="fa fa-globe"></i><span>English</span></label>
+      <select id="lang-select" data-canonical="model/one_to_one.html">
+        
+          <option value="en" selected>English</option>
+        
+      </select>
+    </div>
+    <a id="mobile-nav-toggle">
+      <span class="mobile-nav-toggle-bar"></span>
+      <span class="mobile-nav-toggle-bar"></span>
+      <span class="mobile-nav-toggle-bar"></span>
+    </a>
+  </div>
+</header>
+
+    <div id="content-wrap">
+  <div id="content" class="wrapper">
+    <div id="content-inner">
+      <article class="article-container" itemscope itemtype="http://schema.org/Article">
+        <div class="article-inner">
+          <div class="article">
+            <div class="inner">
+              <header class="article-header">
+                <h1 class="article-title" itemprop="name">One To One Relation</h1>
+                <a target="_blank" rel="noopener external nofollow noreferrer" href="https://github.com/hexojs/site/edit/master/source/model/one_to_one.md" class="article-edit-link" title="Improve this doc"><i class="fa fa-pencil"></i></a>
+              </header>
+              <div class="article-content" itemprop="articleBody">
+                <h2 id="One-To-One" class="article-heading"><a href="#One-To-One" class="headerlink" title="One To One"></a>One To One<a class="article-anchor" href="#One-To-One" aria-hidden="true"></a></h2><p>Let’s say we have a <code>User</code> model,every <code>User</code> has an <code>Address</code>, it’s a one-to-one relation .<br>Table <code>address</code> has column <code>user_id</code>  correspond to <code>user</code> table <code>id</code> column.<br>For <code>User</code> model,we add <code>goelo:&quot;HasOne:AddressRelation&quot;</code> tag to <code>User</code>‘s <code>Address</code> filed.  </p>
+<h3 id="Model-definition" class="article-heading"><a href="#Model-definition" class="headerlink" title="Model definition"></a>Model definition<a class="article-anchor" href="#Model-definition" aria-hidden="true"></a></h3><figure class="highlight golang"><table><tr><td class="code"><pre><span class="line"><span class="keyword">type</span> UserT <span class="keyword">struct</span> &#123;</span><br><span class="line">	*goeloquent.EloquentModel</span><br><span class="line">	Id          <span class="type">int64</span>   <span class="string">`goelo:&quot;column:id;primaryKey&quot;`</span></span><br><span class="line">	UserName    <span class="type">string</span>  <span class="string">`goelo:&quot;column:name&quot;`</span></span><br><span class="line">	Age         <span class="type">int</span>     <span class="string">`goelo:&quot;column:age&quot;`</span></span><br><span class="line">	ViewedPosts []Post  <span class="string">`goelo:&quot;BelongsToMany:ViewedPostsRelation&quot;`</span></span><br><span class="line">	Friends     []UserT <span class="string">`goelo:&quot;BelongsToMany:FriendsRelation&quot;`</span></span><br><span class="line">	Address     Address <span class="string">`goelo:&quot;HasOne:AddressRelation&quot;`</span></span><br><span class="line">	Posts       []Post  <span class="string">`goelo:&quot;HasMany:PostsRelation&quot;`</span></span><br><span class="line">	Roels       []Role  <span class="string">`goelo:&quot;HasMany:RelesRelation&quot;`</span></span><br><span class="line"></span><br><span class="line">	CreatedAt time.Time    <span class="string">`goelo:&quot;column:created_at;CREATED_AT&quot;`</span></span><br><span class="line">	UpdatedAt sql.NullTime <span class="string">`goelo:&quot;column:updated_at;UPDATED_AT&quot;`</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(u *UserT)</span></span> AddressRelation() *goeloquent.RelationBuilder &#123;</span><br><span class="line">	rb := u.HasOne(u, &amp;Address&#123;&#125;, <span class="string">&quot;id&quot;</span>, <span class="string">&quot;user_id&quot;</span>)</span><br><span class="line">	rb.EnableLogQuery()</span><br><span class="line">	<span class="keyword">return</span> rb</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="keyword">type</span> Address <span class="keyword">struct</span> &#123;</span><br><span class="line">	*goeloquent.EloquentModel</span><br><span class="line">	ID      <span class="type">int64</span>  <span class="string">`goelo:&quot;column:id;primaryKey&quot;`</span></span><br><span class="line">	UserT   *UserT <span class="string">`goelo:&quot;BelongsTo:UserRelation&quot;`</span></span><br><span class="line">	UserId  <span class="type">int64</span>  <span class="string">`goelo:&quot;column:user_id&quot;`</span></span><br><span class="line">	Country <span class="type">string</span> <span class="string">`goelo:&quot;column:country&quot;`</span></span><br><span class="line">	State   <span class="type">string</span> <span class="string">`goelo:&quot;column:state&quot;`</span></span><br><span class="line">	City    <span class="type">string</span> <span class="string">`goelo:&quot;column:city&quot;`</span></span><br><span class="line">	Detail  <span class="type">string</span> <span class="string">`goelo:&quot;column:detail&quot;`</span></span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p><code>HasOne</code> first param is always the current model pointer, in this case it’s a user pointer,second one is the pointer of<br>the related model(address), third one is the self model key ,user id that correspond to the address user_id ,the fourth<br>one is the address key that correspond to the users’ id key</p>
+<h3 id="Get-relations" class="article-heading"><a href="#Get-relations" class="headerlink" title="Get relations"></a>Get relations<a class="article-anchor" href="#Get-relations" aria-hidden="true"></a></h3><p>Use <code>With</code> to eager load</p>
+<figure class="highlight golang"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> uu1 UserT</span><br><span class="line"><span class="keyword">var</span> us []UserT</span><br><span class="line">DB.Model(&amp;uu1).With(<span class="string">&quot;Address&quot;</span>).Find(&amp;uu1, u1.Id)</span><br><span class="line">DB.Model(&amp;UserT&#123;&#125;).With(<span class="string">&quot;Address&quot;</span>).WhereIn(<span class="string">&quot;id&quot;</span>, []<span class="type">int64</span>&#123;u2.Id, u4.Id&#125;).Get(&amp;us)</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p>For lazy load call relation method and get it</p>
+<figure class="highlight golang"><table><tr><td class="code"><pre><span class="line">DB.Model(&amp;u1).Find(&amp;lazy, u2.Id)</span><br><span class="line">lazy.AddressRelation().Get(&amp;lazyAddress)</span><br></pre></td></tr></table></figure>
+
+<h2 id="Inverse-of-HasOne-BelongsTo" class="article-heading"><a href="#Inverse-of-HasOne-BelongsTo" class="headerlink" title="Inverse of HasOne BelongsTo"></a>Inverse of HasOne BelongsTo<a class="article-anchor" href="#Inverse-of-HasOne-BelongsTo" aria-hidden="true"></a></h2><h3 id="Define-relation" class="article-heading"><a href="#Define-relation" class="headerlink" title="Define relation"></a>Define relation<a class="article-anchor" href="#Define-relation" aria-hidden="true"></a></h3><figure class="highlight golang"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">func</span> <span class="params">(a *Address)</span></span> UserRelation() *goeloquent.RelationBuilder &#123;</span><br><span class="line">	rb := a.BelongsTo(a, &amp;Address&#123;&#125;, <span class="string">&quot;id&quot;</span>, <span class="string">&quot;user_id&quot;</span>)</span><br><span class="line">	rb.EnableLogQuery()</span><br><span class="line">	<span class="keyword">return</span> rb</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<h3 id="Get-relations-1" class="article-heading"><a href="#Get-relations-1" class="headerlink" title="Get relations"></a>Get relations<a class="article-anchor" href="#Get-relations-1" aria-hidden="true"></a></h3><p>Use <code>With</code> to eager load</p>
+<figure class="highlight golang"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> a Address</span><br><span class="line"><span class="keyword">var</span> as []Address</span><br><span class="line">DB.Model(&amp;a).With(<span class="string">&quot;User&quot;</span>).Find(&amp;a, id)</span><br><span class="line">DB.Model(&amp;Address&#123;&#125;).With(<span class="string">&quot;User&quot;</span>).WhereIn(<span class="string">&quot;id&quot;</span>, []<span class="type">int64</span>&#123;id1, id2&#125;).Get(&amp;as)</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p>For lazy load call relation method and get it</p>
+<figure class="highlight golang"><table><tr><td class="code"><pre><span class="line"><span class="keyword">var</span> lazyUser UserT</span><br><span class="line">DB.Model(&amp;a1).Find(&amp;lazy, a2.Id)</span><br><span class="line">lazy.UserRelation().Get(&amp;lazyUser)</span><br></pre></td></tr></table></figure>
+
+
+
+              </div>
+              <footer class="article-footer">
+                <time class="article-footer-updated" datetime="2022-08-16T08:42:02.288Z" itemprop="dateModified">Last updated: 2022-08-16</time>
+                <a href="model.html" class="article-footer-prev" title="Model"><i class="fa fa-chevron-left"></i><span>Prev</span></a><a href="one_to_many.html" class="article-footer-next" title="One To Many"><span>Next</span><i class="fa fa-chevron-right"></i></a>
+              </footer>
+              
+            </div>
+          </div>
+          <aside id="article-toc" role="navigation">
+            <div id="article-toc-inner">
+              <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=hexoio" id="_carbonads_js"></script>
+              <strong class="sidebar-title">Contents</strong>
+              <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#One-To-One"><span class="toc-text">One To One</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Model-definition"><span class="toc-text">Model definition</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Get-relations"><span class="toc-text">Get relations</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#Inverse-of-HasOne-BelongsTo"><span class="toc-text">Inverse of HasOne BelongsTo</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#Define-relation"><span class="toc-text">Define relation</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#Get-relations-1"><span class="toc-text">Get relations</span></a></li></ol></li></ol>
+              <a href="#" id="article-toc-top">Back to Top</a>
+            </div>
+          </aside>
+        </div>
+      </article>
+      <aside id="sidebar" role="navigation">
+  <div class="inner">
+    <strong class="sidebar-title">sidebar.model.eloquent</strong><a href="model.html" class="sidebar-link">Model</a><strong class="sidebar-title">sidebar.model.relations</strong><a href="one_to_one.html" class="sidebar-link current">One To One</a><a href="one_to_many.html" class="sidebar-link">One To Many</a><a href="many_to_many.html" class="sidebar-link">Many To Many</a><a href="one_to_one_morph.html" class="sidebar-link">One To One Morph</a><a href="one_to_many_morph.html" class="sidebar-link">One To Many Morph</a><a href="many_to_many_morph.html" class="sidebar-link">Many To Many Morph</a><a href="query_relations.html" class="sidebar-link">Query Relations</a>
+  </div>
+</aside>
+    </div>
+  </div>
+</div>
+
+    <footer id="footer" class="wrapper">
+  <div class="inner">
+    <div id="footer-copyright">
+      &copy; 2022 <a href="https://github.com/hexojs/hexo/graphs/contributors" rel="external nofollow noreferrer" target="_blank">GlitterLip</a><br>
+      Documentation licensed under <a href="http://creativecommons.org/licenses/by/4.0/" rel="external nofollow noreferrer" target="_blank">CC BY 4.0</a>.
+    </div>
+    <div id="footer-links">
+      <a href="https://www.netlify.com/" rel="external nofollow noreferrer" class="footer-link" target="_blank"><img src="https://www.netlify.com/img/global/badges/netlify-dark.svg" style="margin-bottom:-14px"/></a>
+      <a href="https://twitter.com/" rel="external nofollow noreferrer" class="footer-link" target="_blank"><i class="fa fa-twitter"></i></a>
+      <a href="https://github.com/" rel="external nofollow noreferrer" class="footer-link" target="_blank"><i class="fa fa-github-alt"></i></a>
+    </div>
+  </div>
+</footer>
+
+  </div>
+  <div id="mobile-nav-dimmer"></div>
+  <nav id="mobile-nav">
+  <div id="mobile-nav-inner">
+    <ul id="mobile-nav-list">
+      <a href="/database/" class="mobile-nav-link">Database</a><a href="/model/" class="mobile-nav-link">Model</a><a href="/about/" class="mobile-nav-link">About</a>
+      <li class="mobile-nav-item">
+        <a href="https://github.com/" class="mobile-nav-link" rel="external" target="_blank">GitHub</a>
+      </li>
+    </ul>
+    
+      <strong class="mobile-nav-title">sidebar.model.eloquent</strong><a href="model.html" class="mobile-nav-link">Model</a><strong class="mobile-nav-title">sidebar.model.relations</strong><a href="one_to_one.html" class="mobile-nav-link current">One To One</a><a href="one_to_many.html" class="mobile-nav-link">One To Many</a><a href="many_to_many.html" class="mobile-nav-link">Many To Many</a><a href="one_to_one_morph.html" class="mobile-nav-link">One To One Morph</a><a href="one_to_many_morph.html" class="mobile-nav-link">One To Many Morph</a><a href="many_to_many_morph.html" class="mobile-nav-link">Many To Many Morph</a><a href="query_relations.html" class="mobile-nav-link">Query Relations</a>
+    
+  </div>
+  <div id="mobile-lang-select-wrap">
+    <span id="mobile-lang-select-label"><i class="fa fa-globe"></i><span>English</span></span>
+    <select id="mobile-lang-select" data-canonical="model/one_to_one.html">
+      
+        <option value="en" selected>English</option>
+      
+    </select>
+  </div>
+</nav>
+  <!-- Scripts -->
+<!-- Cookie -->
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+<!-- build:js build/js/main.js -->
+
+<script src="/js/lang_select.js"></script>
+
+
+<script src="/js/mobile_nav.js"></script>
+
+<!-- endbuild -->
+
+<!-- Algolia -->
+
+
+</body>
+</html>
