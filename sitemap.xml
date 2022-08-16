@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:4000/zh-tw/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/setup</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/syntax-highlight</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/syntax-highlight</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/templates</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/troubleshooting</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/tag-plugins</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/themes</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/themes</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/tag-plugins</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/troubleshooting</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/writing</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/variables</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/variables</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/writing</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/templates</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/setup</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/github-pages</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/github-pages</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/gitlab-pages</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/internationalization</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/gitlab-pages</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/helpers</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -119,7 +119,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/helpers</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/migration</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -128,7 +128,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/permalinks</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/permalinks</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -137,7 +137,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/plugins</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/internationalization</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -146,7 +146,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/migration</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/one-command-deployment</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/one-command-deployment</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/plugins</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/server</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/server</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -173,7 +173,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/api/renderer</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/api/processor</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -182,7 +182,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/api/processor</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/api/renderer</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/api/router</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/api/rendering</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -200,7 +200,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/api/scaffolds</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/api/scaffolds</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/api/themes</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/api/router</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -218,7 +218,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/api/tag</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/api/themes</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -227,7 +227,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/api/rendering</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/api/tag</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -236,7 +236,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/asset-folders</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/commands</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -245,7 +245,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/commands</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/contributing</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -254,7 +254,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/front-matter</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/asset-folders</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -263,7 +263,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/contributing</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/data-files</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -272,7 +272,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/data-files</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/front-matter</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -281,7 +281,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/generating</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/generating</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -290,7 +290,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/docs/configuration</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/docs/configuration</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -299,7 +299,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -308,7 +308,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/api/deployer</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/api/console</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -317,7 +317,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/api/events</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/api/events</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -326,7 +326,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/api/box</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/api/box</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -335,7 +335,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/api/filter</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/api/generator</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -344,7 +344,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/api/generator</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/api/filter</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -353,7 +353,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/api/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/api/helper</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -362,7 +362,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/api/console</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/api/injector</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -371,7 +371,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/api/helper</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/api/locals</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -380,7 +380,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/api/locals</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/api/migrator</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -389,7 +389,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/api/injector</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/api/posts</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -398,7 +398,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/api/migrator</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/api/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -407,7 +407,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-tw/api/posts</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-tw/api/deployer</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -416,7 +416,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/permalinks</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/permalinks</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -425,7 +425,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/plugins</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/plugins</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -434,7 +434,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/server</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/setup</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -443,7 +443,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/setup</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/syntax-highlight</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -452,7 +452,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/syntax-highlight</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/tag-plugins</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -461,7 +461,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/troubleshooting</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/templates</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -470,7 +470,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/tag-plugins</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/themes</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -479,7 +479,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/templates</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/troubleshooting</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -488,7 +488,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/variables</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/server</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -497,7 +497,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/writing</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/variables</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -506,7 +506,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/themes</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/writing</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -515,7 +515,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/data-files</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/contributing</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -524,7 +524,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/front-matter</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/data-files</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -533,7 +533,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/generating</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/front-matter</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -542,7 +542,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/github-pages</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/generating</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -551,7 +551,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/gitlab-pages</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/github-pages</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -560,7 +560,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/helpers</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -569,7 +569,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/internationalization</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -578,7 +578,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/migration</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/internationalization</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -587,7 +587,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/one-command-deployment</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/migration</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -596,7 +596,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/contributing</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/one-command-deployment</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -605,7 +605,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/helpers</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/gitlab-pages</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -614,7 +614,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/commands</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/api/posts</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -623,7 +623,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/asset-folders</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/api/migrator</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -632,7 +632,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/docs/configuration</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/api/renderer</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -641,7 +641,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/api/renderer</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/api/processor</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -650,7 +650,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/api/migrator</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/api/rendering</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -659,7 +659,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/api/router</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/api/scaffolds</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -668,7 +668,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/api/posts</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/api/router</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -677,7 +677,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/api/rendering</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/api/tag</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -686,7 +686,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/api/processor</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/api/themes</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -695,7 +695,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/api/tag</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/asset-folders</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -704,7 +704,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/api/themes</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/commands</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -713,7 +713,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/api/scaffolds</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/docs/configuration</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -722,7 +722,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/api/box</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/api/box</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -731,7 +731,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/api/console</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/api/console</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -740,7 +740,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/api/events</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/api/deployer</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -749,7 +749,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/api/deployer</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/api/events</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -758,7 +758,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/api/filter</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/api/filter</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -767,7 +767,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/api/generator</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/api/helper</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -776,7 +776,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/api/helper</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/api/generator</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -785,7 +785,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/api/injector</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/api/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -794,7 +794,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/api/locals</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/api/injector</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -803,7 +803,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/zh-cn/api/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/zh-cn/api/locals</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -812,7 +812,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/themes/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -821,7 +821,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/themes/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -830,7 +830,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/themes</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/templates</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -839,7 +839,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/tag-plugins</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/tag-plugins</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -848,7 +848,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/troubleshooting</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/themes</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -857,7 +857,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/writing</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/troubleshooting</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -866,7 +866,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/variables</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/writing</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -875,7 +875,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/templates</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/variables</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -884,7 +884,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -893,7 +893,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/migration</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/helpers</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -902,7 +902,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/internationalization</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/internationalization</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -911,7 +911,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/one-command-deployment</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/migration</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -920,7 +920,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/plugins</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/plugins</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -929,7 +929,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/helpers</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/server</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -938,7 +938,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/permalinks</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/setup</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -947,7 +947,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/syntax-highlight</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/syntax-highlight</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -956,7 +956,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/setup</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/one-command-deployment</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -965,7 +965,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/server</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/permalinks</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -974,7 +974,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/api/tag</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/api/scaffolds</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -983,7 +983,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/api/router</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/api/themes</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -992,7 +992,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/api/themes</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/api/router</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1001,7 +1001,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/asset-folders</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/api/tag</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1010,7 +1010,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/commands</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/contributing</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1019,7 +1019,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/contributing</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/configuration</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1028,7 +1028,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/configuration</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/data-files</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1037,7 +1037,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/api/scaffolds</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/commands</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1046,7 +1046,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/front-matter</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/generating</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1055,7 +1055,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/data-files</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/front-matter</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1064,7 +1064,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/generating</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/github-pages</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1073,7 +1073,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/github-pages</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/gitlab-pages</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1082,7 +1082,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/docs/gitlab-pages</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/docs/asset-folders</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1091,7 +1091,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/api/console</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/api/box</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1100,7 +1100,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/api/deployer</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/api/console</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1109,7 +1109,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/api/box</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/api/deployer</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1118,7 +1118,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/api/events</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/api/events</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1127,7 +1127,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/api/filter</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/api/filter</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1136,7 +1136,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/api/generator</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/api/generator</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1145,7 +1145,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/api/helper</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/api/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1154,7 +1154,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/api/injector</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/api/helper</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1163,7 +1163,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/api/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/api/locals</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1172,7 +1172,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/api/posts</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/api/processor</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1181,7 +1181,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/api/locals</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/api/injector</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1190,7 +1190,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/api/rendering</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/api/posts</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1199,7 +1199,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/api/renderer</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/api/renderer</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1208,7 +1208,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/api/processor</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/api/migrator</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1217,7 +1217,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/th/api/migrator</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/th/api/rendering</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1226,7 +1226,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1235,7 +1235,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/syntax-highlight</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/server</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1244,7 +1244,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/plugins</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/setup</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1253,7 +1253,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/tag-plugins</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/plugins</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1262,7 +1262,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/setup</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/tag-plugins</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1271,7 +1271,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/server</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/templates</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1280,7 +1280,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/variables</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/themes</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1289,7 +1289,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/themes</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/troubleshooting</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1298,7 +1298,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/writing</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/variables</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1307,7 +1307,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/troubleshooting</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/writing</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1316,7 +1316,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/templates</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/syntax-highlight</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1325,7 +1325,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/front-matter</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/generating</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1334,7 +1334,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/generating</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/gitlab-pages</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1343,7 +1343,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/gitlab-pages</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/front-matter</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1352,7 +1352,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/internationalization</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/helpers</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1361,7 +1361,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/github-pages</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/internationalization</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1370,7 +1370,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/migration</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/github-pages</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1379,7 +1379,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/one-command-deployment</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1388,7 +1388,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/helpers</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/migration</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1397,7 +1397,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/permalinks</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/permalinks</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1406,7 +1406,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/one-command-deployment</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1415,7 +1415,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/api/migrator</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/api/locals</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1424,7 +1424,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/api/posts</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/api/posts</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1433,7 +1433,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/api/locals</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/api/migrator</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1442,7 +1442,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/api/renderer</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/api/processor</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1451,7 +1451,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/api/router</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/api/renderer</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1460,7 +1460,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/api/rendering</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/api/rendering</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1469,7 +1469,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/api/tag</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/api/scaffolds</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1478,7 +1478,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/api/processor</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/api/tag</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1487,7 +1487,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/api/scaffolds</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/api/themes</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1496,7 +1496,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/api/themes</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/api/router</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1505,7 +1505,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/asset-folders</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/asset-folders</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1514,7 +1514,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/commands</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/commands</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1523,7 +1523,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/configuration</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/configuration</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1532,7 +1532,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/contributing</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/data-files</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1541,7 +1541,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/docs/data-files</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/docs/contributing</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1550,7 +1550,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1559,7 +1559,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/writing</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/variables</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1568,7 +1568,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/api/console</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/api/box</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1577,7 +1577,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/api/box</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/api/console</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1586,7 +1586,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/variables</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/api/events</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1595,7 +1595,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/api/deployer</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/api/deployer</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1604,7 +1604,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/api/events</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/api/generator</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1613,7 +1613,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/api/generator</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/writing</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1622,7 +1622,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/api/helper</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/api/helper</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1631,7 +1631,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/api/filter</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/api/filter</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1640,7 +1640,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/api/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/api/injector</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1649,7 +1649,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ru/api/injector</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ru/api/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1658,7 +1658,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/internationalization</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1667,7 +1667,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/one-command-deployment</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/internationalization</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1676,7 +1676,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/migration</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/migration</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1685,7 +1685,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/plugins</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/permalinks</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1694,7 +1694,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/one-command-deployment</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1703,7 +1703,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/server</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/plugins</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1712,7 +1712,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/setup</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/setup</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1721,7 +1721,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/syntax-highlight</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/server</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1730,7 +1730,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/tag-plugins</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/templates</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1739,7 +1739,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/permalinks</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/tag-plugins</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1748,7 +1748,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/themes</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/themes</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1757,7 +1757,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/templates</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/troubleshooting</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1766,7 +1766,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/troubleshooting</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/syntax-highlight</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1775,7 +1775,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/commands</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/asset-folders</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1784,7 +1784,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/configuration</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/configuration</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1793,7 +1793,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/asset-folders</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/contributing</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1802,7 +1802,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/data-files</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/data-files</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1811,7 +1811,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/generating</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/front-matter</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1820,7 +1820,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/github-pages</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/gitlab-pages</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1829,7 +1829,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/contributing</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/commands</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1838,7 +1838,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/gitlab-pages</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/helpers</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1847,7 +1847,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/front-matter</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/github-pages</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1856,7 +1856,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/docs/helpers</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/docs/generating</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1865,7 +1865,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/api/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/api/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1874,7 +1874,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/api/locals</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/api/injector</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1883,7 +1883,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/api/injector</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/api/locals</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1892,7 +1892,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/api/renderer</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/api/helper</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1901,7 +1901,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/api/processor</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/api/migrator</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1910,7 +1910,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/api/rendering</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/api/posts</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1919,7 +1919,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/api/helper</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/api/processor</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1928,7 +1928,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/api/posts</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/api/rendering</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1937,7 +1937,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/api/scaffolds</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/api/renderer</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1946,7 +1946,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/api/router</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/api/router</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1955,7 +1955,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/api/migrator</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/api/scaffolds</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1964,7 +1964,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/api/tag</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/api/themes</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1973,7 +1973,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/api/themes</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/api/tag</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1982,7 +1982,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/model/one_to_one_morph</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/plugins/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -1991,7 +1991,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/model/relations</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/model/relations</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2000,7 +2000,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/model/query_relations</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/model/one_to_one_morph</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2009,7 +2009,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/plugins/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/model/query_relations</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2018,7 +2018,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/api/box</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/api/deployer</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2027,7 +2027,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/api/console</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/api/box</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2036,7 +2036,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/api/filter</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/api/events</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2045,7 +2045,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/api/events</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/api/filter</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2054,7 +2054,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/api/generator</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/api/console</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2063,7 +2063,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/pt-br/api/deployer</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/pt-br/api/generator</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2072,7 +2072,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/model/many_to_many</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/model/many_to_many</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2081,7 +2081,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/model/many_to_many_morph</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/model/model</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2090,7 +2090,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/model/one_to_many_morph</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/model/one_to_one</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2099,7 +2099,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/model/one_to_one</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/model/one_to_many_morph</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2108,7 +2108,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/model/one_to_many</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/model/many_to_many_morph</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2117,7 +2117,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/model/model</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/model/one_to_many</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2126,7 +2126,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/model/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2135,7 +2135,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/model/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2144,7 +2144,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/troubleshooting</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/troubleshooting</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2153,7 +2153,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/variables</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/variables</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2162,7 +2162,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/writing</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/writing</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2171,7 +2171,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/plugins</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/plugins</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2180,7 +2180,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/server</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/server</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2189,7 +2189,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/setup</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/setup</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2198,7 +2198,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/syntax-highlight</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/tag-plugins</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2207,7 +2207,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/tag-plugins</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/syntax-highlight</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2216,7 +2216,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/themes</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/templates</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2225,7 +2225,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/templates</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/themes</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2234,7 +2234,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/front-matter</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/gitlab-pages</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2243,7 +2243,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/generating</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/generating</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2252,7 +2252,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/github-pages</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2261,7 +2261,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/internationalization</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2270,7 +2270,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/helpers</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/migration</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2279,7 +2279,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/gitlab-pages</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/helpers</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2288,7 +2288,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/one-command-deployment</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/github-pages</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2297,7 +2297,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/internationalization</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/one-command-deployment</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2306,7 +2306,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/permalinks</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/permalinks</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2315,7 +2315,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/migration</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/front-matter</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2324,7 +2324,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/commands</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/api/rendering</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2333,7 +2333,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/asset-folders</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/api/scaffolds</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2342,7 +2342,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/configuration</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/api/router</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2351,7 +2351,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/contributing</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/api/themes</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2360,7 +2360,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/docs/data-files</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/api/tag</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2369,7 +2369,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/api/router</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/asset-folders</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2378,7 +2378,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/api/rendering</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/configuration</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2387,7 +2387,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/api/scaffolds</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/commands</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2396,7 +2396,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/api/tag</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/contributing</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2405,7 +2405,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/api/themes</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/docs/data-files</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2414,7 +2414,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/api/filter</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/api/events</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2423,7 +2423,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/api/events</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/api/generator</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2432,7 +2432,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/api/generator</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/api/injector</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2441,7 +2441,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/api/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/api/locals</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2450,7 +2450,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/api/injector</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/api/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2459,7 +2459,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/api/locals</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/api/helper</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2468,7 +2468,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/api/processor</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/api/migrator</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2477,7 +2477,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/api/migrator</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/api/posts</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2486,7 +2486,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/api/helper</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/api/filter</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2495,7 +2495,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/api/posts</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/api/processor</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2504,7 +2504,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/api/renderer</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/api/renderer</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2513,7 +2513,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2522,7 +2522,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/api/deployer</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/api/console</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2531,7 +2531,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/api/box</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/api/deployer</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2540,7 +2540,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/ko/api/console</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/ko/api/box</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2549,7 +2549,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/database/basic</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/database/configuration</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2558,7 +2558,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/database/pagination</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/database/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2567,7 +2567,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/database/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/database/basic</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2576,7 +2576,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/database/query_builder</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/database/pagination</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2585,7 +2585,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/database/configuration</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/database/query_builder</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2594,7 +2594,7 @@
   </url>
   
   <url>
-    <loc>http://localhost:4000/about/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs/about/</loc>
     
     <lastmod>2022-08-16</lastmod>
     
@@ -2604,7 +2604,7 @@
   
 
   <url>
-    <loc>http://localhost:4000/</loc>
+    <loc>https://glitterlip.github.io/go-eloquent-docs</loc>
     <lastmod>2022-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
